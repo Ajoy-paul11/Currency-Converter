@@ -12,7 +12,7 @@ Welcome to the Currency Converter application! This React application, powered b
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **Vite**: A modern, fast build tool for JavaScript and CSS.
+- **Vite**: A modern, fast-build tool for JavaScript and CSS.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 
 ## Getting Started
@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/Ajoy-paul11/Currency-Converter.git](https://github.com/Ajoy-paul11/Currency-Converter.git)
+   git clone https://github.com/Ajoy-paul11/Currency-Converter.git
    ```
 2. Navigate to the project
     ```sh
